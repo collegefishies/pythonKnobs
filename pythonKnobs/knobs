@@ -1,0 +1,4 @@
+#!/bin/bash
+
+pythonKnobs $(python /home/enrique/Documents/Programs/pythonKnobs/pythonKnobs.py) $1
+
