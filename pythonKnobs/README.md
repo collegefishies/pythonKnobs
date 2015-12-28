@@ -6,8 +6,8 @@ Hey there, how's it going.....
  Needs changes for each setup.  (hardwired directories)
 
 #pythonKnobs.py 
-	is used to read from the arduino
+is used to read from the arduino
 	Works only with linux right now but other wise general.
 
 #pythonKnobs.ino
-	arduino code. in working order. Right now occasionally calls to knobs will return inconsitent values. every ~10th call will yield a zero when the values should be nonzero. maybe this is a wiring problem
+arduino code. in working order. Right now occasionally calls to knobs will return inconsitent values. every ~10th call will yield a zero when the values should be nonzero. maybe this is a wiring problem
